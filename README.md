@@ -1,0 +1,5 @@
+We innovatively propose a lightweight model for sunflower disease identification, titled "A lightweight co-optimization model for field sunflower disease identification". In this project, three public datasets were utilized, namely：
+Sunflower leaf disease dataset: https://doi.org/10.1016/j.dib.2022.108043
+Cotton leaf disease dataset: https://doi.org/10.19788/j.issn.2096-6369.230405
+Apple leaf disease dataset: https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8
+These public datasets are cited in the paper, and we sincerely acknowledge the authors who provided them. Readers can download the original and augmented sunflower leaf disease datasets used in our project via our GitHub link. Based on the public sunflower leaf disease dataset (https://doi.org/10.1016/j.dib.2022.108043), our dataset adds two additional disease types: Sclerotinia Rot and Sunflower Rust. Detailed descriptions of the specific augmentation methods are provided in the paper. Currently, only the dataset of this project has been uploaded; the complete project code will be uploaded to GitHub after organization. Please stay tuned for updates.
